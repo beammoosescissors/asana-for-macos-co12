@@ -1,4 +1,4 @@
-
+Get the ultimate Asana for macOS addon with new Addon for Asana for macOS - auto-sync and database templates. Featuring auto-sync and database templates, it's the best choice for
 
 
 
